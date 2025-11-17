@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100dvh;
+    background: url('../img/tenisnike.png') no-repeat center center;
+    background-size: cover; 
+}
+div{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 40%;
+    float: left;
+    margin-top: 30dvh;
+    margin-left: 5%;
+}
+div h1{
+    text-align: center;
+    font-size: 50px;
+}
+div p{
+    text-align: center;
+    font-size: 18px;
+}
